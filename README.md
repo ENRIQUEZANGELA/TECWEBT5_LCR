@@ -1,9 +1,9 @@
 # TECWEBT5_LCR
-# Resumen de Bimestre📄
+# Resumen de Bimestre :computer::star2:
 -  📌 *Angela Enriquez*
 -  📌 *5TO BACO MATU*
 
-- ### 🎓CREACION DE CUENTA DE GITHUB :bust_in_silhouette:
+- ## 🎓CREACION DE CUENTA DE GITHUB :bust_in_silhouette:
 Para la creacion de la cuenta de GITHUB
 Tenemos que ingresar al navegador y escibir GitHub le damos click a la primera pagina pulsamos en "Iniciar Secion" despues de eso vamos a crar una cuenta e ingresamos nuestro correo y una nueva contraseña para esta area. Y con eso tendriamos nuestro cuenta de GITHUB. Dentro del mismo tenemos opcion de editar nuestro perfi.
 
